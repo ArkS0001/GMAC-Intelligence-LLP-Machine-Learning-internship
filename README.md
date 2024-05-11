@@ -1,3 +1,7 @@
 # GMAC-Intelligence-LLP-Machine-Learning-internship
 
 In ensuring the reliability of findings from previous work on Q-learning in CloudSim, researchers often leverage established practices such as cross-validation, replication studies, and comparative analyses. By cross-referencing findings across multiple research papers and examining consistency in results, researchers can validate the robustness and generalizability of proposed Q-learning approaches. Additionally, replicating experiments or conducting sensitivity analyses using similar experimental setups and datasets from previous studies can help confirm the reliability of findings and identify potential confounding factors or biases. Furthermore, comparative analyses against baseline methods or alternative approaches enable researchers to contextualize their findings and assess the relative effectiveness of Q-learning techniques in CloudSim. Overall, employing a systematic approach that incorporates cross-validation, replication, and comparative analyses can bolster the reliability and credibility of findings derived from previous work in this domain.
+
+
+![200w](https://github.com/ArkS0001/GMAC-Intelligence-LLP-Machine-Learning-internship/assets/113760964/8ca4585e-2120-480b-813a-432ddf0444b4)
+![C9dMpY](https://github.com/ArkS0001/GMAC-Intelligence-LLP-Machine-Learning-internship/assets/113760964/3c97938e-06bb-4928-b76a-baeb3dbe1c9e)
